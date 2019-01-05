@@ -3,8 +3,8 @@
 # version: 0.2
 # authors: freemangl, zh99998 <zh99998@gmail.com>, marguerite <marguerite@opensuse.org>
 
-gem "chinese_pinyin", "1.0.0"
-gem "romaji", "0.2.3"
+gem "chinese_pinyin"
+gem "romaji"
 
 after_initialize do
 
